@@ -1,1 +1,1 @@
-wine quality prediction model
+wine quality prediction model, best score 73333
